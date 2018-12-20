@@ -282,14 +282,14 @@
     [
         "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 363,
             "modifiedTime": 1545340777722,
             "changeTime": 1545340777722,
-            "contentHash": "767cf74c740660911d32f23198e3ad8d91b76d93"
+            "contentHash": "767cf74c740660911d32f23198e3ad8d91b76d93",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -347,14 +347,14 @@
     [
         "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlertController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlertController.js",
             "isDirectory": false,
-            "size": 691,
-            "modifiedTime": 1545340780603,
-            "changeTime": 1545340631888,
-            "contentHash": "0d5460d30f2915fae82e20db583b48607bbaf026",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 347,
+            "modifiedTime": 1545341673192,
+            "changeTime": 1545341673192,
+            "contentHash": "834d8803169fc18b1724d66c19017d4c65f920b4"
         }
     ],
     [
