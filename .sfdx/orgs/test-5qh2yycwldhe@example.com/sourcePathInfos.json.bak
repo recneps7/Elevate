@@ -1,0 +1,386 @@
+[
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339141329,
+            "changeTime": 1545339141329,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339141329,
+            "changeTime": 1545339141329,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339967563,
+            "changeTime": 1545339967563,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545340219016,
+            "changeTime": 1545340219016,
+            "isWorkspace": false,
+            "contentHash": "b8f841faf67c83b257649fd6c5f2d6f41ce52f3f"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339252664,
+            "changeTime": 1545339252664,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\objects\\Contact\\fields\\Alert_Text__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\objects\\Contact\\fields\\Alert_Text__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1545339967449,
+            "changeTime": 1545339967449,
+            "contentHash": "e1387168a5cce062bfeb204d9df21d974f55c4b7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9633,
+            "modifiedTime": 1545339967488,
+            "changeTime": 1545339967488,
+            "contentHash": "f5a682e7429063ab5ee8d4a2919167823b6c25d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9609,
+            "modifiedTime": 1545339967515,
+            "changeTime": 1545339967515,
+            "contentHash": "58dcf0ca502e3700083f49daa423e30f77f1ae62",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9318,
+            "modifiedTime": 1545339967533,
+            "changeTime": 1545339967533,
+            "contentHash": "553a92c090ca9cf7704f16f0ae8bd8b1c14cf784",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9609,
+            "modifiedTime": 1545339967555,
+            "changeTime": 1545339967555,
+            "contentHash": "d5b9fd2a5c4bb3233f58ef82472b15a53b2da2b6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18114,
+            "modifiedTime": 1545339967590,
+            "changeTime": 1545339967590,
+            "contentHash": "1922e54932fed914952b088df1f2ac982b5290f9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4590,
+            "modifiedTime": 1545339967602,
+            "changeTime": 1545339967602,
+            "contentHash": "a823a5a0384add503cc202661a99a7b6581a105f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4930,
+            "modifiedTime": 1545339967629,
+            "changeTime": 1545339967629,
+            "contentHash": "b2cb729feeff1393c3cf8eb47654f78260bdbf0e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4594,
+            "modifiedTime": 1545339967635,
+            "changeTime": 1545339967635,
+            "contentHash": "d6206f79b9ee818d7ef77839d055589eeb67e469",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339967434,
+            "changeTime": 1545339967434,
+            "contentHash": "1cea743b84fd658c0dc46770f886a911a64a5b26",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339967433,
+            "changeTime": 1545339967433,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339967433,
+            "changeTime": 1545339967433,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339967540,
+            "changeTime": 1545339967540,
+            "contentHash": "0b3377b47f1f123cebb2bb17d44827d3b828a1bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545339967634,
+            "changeTime": 1545339967634,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545340219041,
+            "changeTime": 1545340219041,
+            "contentHash": "307a3ee94d79ce6e237b21de44abc8bf150a1361",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.auradoc",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1545340219041,
+            "changeTime": 1545340219041,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.cmp",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.cmp",
+            "isDirectory": false,
+            "size": 321,
+            "modifiedTime": 1545340421867,
+            "changeTime": 1545340421867,
+            "contentHash": "bd6aa994bdb1e2077cadeed3f667e48cce1c996a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1545340219027,
+            "changeTime": 1545340219027,
+            "contentHash": "dba31600de389a9c0451b4aa53a068b5814a6f9b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.css",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1545340219034,
+            "changeTime": 1545340219034,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.design",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1545340219042,
+            "changeTime": 1545340219042,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.svg",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlert.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1545340219038,
+            "changeTime": 1545340219038,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlertController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlertController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 691,
+            "modifiedTime": 1545340631888,
+            "changeTime": 1545340631888,
+            "contentHash": "0d5460d30f2915fae82e20db583b48607bbaf026"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlertHelper.js",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlertHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1545340219032,
+            "changeTime": 1545340219032,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlertRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\spencerr\\ElevateProject\\force-app\\main\\default\\aura\\ContactAlert\\ContactAlertRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1545340219036,
+            "changeTime": 1545340219036,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

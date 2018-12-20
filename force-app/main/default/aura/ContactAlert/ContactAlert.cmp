@@ -1,0 +1,8 @@
+<aura:component implements="force:hasRecordId,force:appHostable,flexipage:availableForAllPageTypes" access="global">
+    <aura:attribute name="record" type="Contact" />  
+    <force:recordData 
+        recordId="{!v.recordId}"
+        targetFields="{!v.record}"
+        fields="['Alert_Text__c']" 
+        recordUpdated="{!c.recordLoaded}" />  
+</aura:component>
